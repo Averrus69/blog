@@ -19,10 +19,10 @@ const Post1 = () => {
         <section>
           <h2 className="text-2xl font-bold text-gray-900">Introduction</h2>
           <p>
-            In this tutorial, we'll walk through how to build a dynamic blog
-            with Next.js 13. We'll cover setting up your Next.js environment,
-            styling with Tailwind CSS, creating pages, and dynamic routes for
-            your blog posts.
+            In this tutorial, we&apos;ll walk through how to build a dynamic
+            blog with Next.js 13. We&apos;ll cover setting up your Next.js
+            environment, styling with Tailwind CSS, creating pages, and dynamic
+            routes for your blog posts.
           </p>
         </section>
 
@@ -61,18 +61,18 @@ const Post1 = () => {
             Step 3: Creating Blog Pages
           </h2>
           <p>
-            Now that we have set up Tailwind CSS, let's create some pages to
-            display our blog posts. In the Next.js pages directory, you can
+            Now that we have set up Tailwind CSS, let&apos;s create some pages
+            to display our blog posts. In the Next.js pages directory, you can
             create dynamic routes to display individual blog posts.
           </p>
         </section>
         <section>
           <h2 className="text-2xl font-bold text-gray-900">Conclusion</h2>
           <p>
-            Congratulations! You've now learned how to build a simple blog using
-            Next.js. You can expand upon this foundation by adding more features
-            such as creating a content management system (CMS), integrating with
-            APIs, and adding authentication.
+            Congratulations! You&apos;ve now learned how to build a simple blog
+            using Next.js. You can expand upon this foundation by adding more
+            features such as creating a content management system (CMS),
+            integrating with APIs, and adding authentication.
           </p>
         </section>
       </article>
